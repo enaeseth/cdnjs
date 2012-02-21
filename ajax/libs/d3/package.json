@@ -12,11 +12,13 @@
         "canvas"
     ],
     "homepage": "http://mbostock.github.com/d3/",
-    "author": {
-        "name": "Mike Bostock",
-        "email": "mbostock@gmail.com",
-        "url": "http://bost.ocks.org/mike"
-    },
+    "maintainers": [
+        {
+            "name": "Mike Bostock",
+            "email": "mbostock@gmail.com",
+            "url": "http://bost.ocks.org/mike"
+        }
+    ],
     "repository": {
         "type": "git",
         "url": "http://github.com/mbostock/d3.git"
